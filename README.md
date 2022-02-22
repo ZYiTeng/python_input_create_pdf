@@ -1,8 +1,8 @@
 # python_input_create_pdf
     檔案需額外下載Release底下big_file內的檔案，參照說明放置檔案位置
 
-#####應用為產品標籤自動生成，格式為固定的每頁 15 格
-#####透過輸入產品名稱、製造與有效日期，以及需求的標籤張數，來自動產生對應數量的PDF檔案
+##### 應用為產品標籤自動生成，格式為固定的每頁 15 格
+##### 透過輸入產品名稱、製造與有效日期，以及需求的標籤張數，來自動產生對應數量的PDF檔案
 
     檔案目錄
 <img scr="https://github.com/ZYiTeng/python_input_create_pdf/blob/main/img/%E6%AA%94%E6%A1%88%E7%9B%AE%E9%8C%84.jpg?raw=true" width="250px">
